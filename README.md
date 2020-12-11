@@ -52,10 +52,3 @@ Here are some ideas to get you started:
 
 ---
 
-
-[website]: https://codeSTACKr.com
-[youtube]: https://youtube.com/T-HOPE
-[instagram]: https://instagram.com/tenzin_jhope
-[linkedin]: https://linkedin.com/in//tenzin-chabdeltsang-b60ab2114
-
-
